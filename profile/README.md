@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">DRS Schüler GitHub</h1>
 
 <h2 align="center">📊 Unsere GitHub Statistiken</h2>
