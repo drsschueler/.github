@@ -4,7 +4,7 @@
 
 <h4 align="center">👥 Besucher</h4>
 <p align="center">
-    <img src="https://profile-counter.glitch.me/{drsschueler}/count.svg" alt="DRS Schüler :: Besucher" />
+    <img src="https://profile-counter.glitch.me/drsschueler/count.svg" alt="DRS Schüler :: Besucher" />
 </p>
 
 <h4 align="center">🔝 Meist verwendete Sprachen</h4>
